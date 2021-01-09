@@ -1,2 +1,4 @@
 # GermanVocabularyPractice
-Practice German Vocabular (Languages English, Spanish, French)
+#Practice German Vocabular (Languages English, Spanish, French)
+#practicar vocabulario alemán
+#pratiquer le vocabulaire allemand
